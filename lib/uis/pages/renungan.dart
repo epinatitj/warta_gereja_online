@@ -111,7 +111,7 @@ class _PageRenunganState extends State<PageRenungan> {
                               ),
                             ),
                             Text(
-                              "Deskripsi Deskripsi Deskripsi Deskripsi Deskripsi " +
+                              "1 Deskripsi Deskripsi Deskripsi Deskripsi Deskripsi " +
                                   "Deskripsi Deskripsi Deskripsi Deskripsi Deskripsi " +
                                   "Deskripsi Deskripsi Deskripsi Deskripsi Deskripsi Deskripsi",
                               overflow: TextOverflow.ellipsis,
